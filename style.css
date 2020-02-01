@@ -16,5 +16,15 @@ nav a{
 }
 
 section#featured-property p {
+  width: 800px;
   text-align: center;
+  margin: auto;
+}
+
+footer > div{
+ float:left;
+ display: block;
+ background-color: red;
+ text-align: center;
+ width: 25%
 }
